@@ -1,0 +1,16 @@
+# nix
+.direnv
+result
+
+bin
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.lprof
+
+lattice.lte
+*.twi
+*.svg
+*.png
